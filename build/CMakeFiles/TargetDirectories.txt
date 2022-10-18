@@ -1,0 +1,3 @@
+/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build/CMakeFiles/Project_Olivia.dir
+/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build/CMakeFiles/edit_cache.dir
+/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build/CMakeFiles/rebuild_cache.dir

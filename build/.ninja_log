@@ -1,0 +1,13 @@
+# ninja log v5
+800	882	1663088005087992016	Project_Olivia	74a2efda04a3c3
+1	317	1662562715343827049	CMakeFiles/Project_Olivia.dir/src/shaderClass.cpp.o	c7bdf30158001ef8
+1	25	1663580458421492200	build.ninja	fbfabee951be3f99
+2	210	1662837535588556942	CMakeFiles/Project_Olivia.dir/src/VBO.cpp.o	4b1c5b539dc881f4
+2	1009	1662837536387537412	CMakeFiles/Project_Olivia.dir/src/Texture.cpp.o	7f400a1121c16731
+1	196	1662837535574557284	CMakeFiles/Project_Olivia.dir/src/EBO.cpp.o	cb6bd77075c8c8ae
+2	732	1662662797705702579	CMakeFiles/Project_Olivia.dir/src/Camera.cpp.o	1e4149400c105396
+2	750	1663087754908091478	CMakeFiles/Project_Olivia.dir/src/main.cpp.o	334616b7f616ed64
+0	89	1662491965343970497	CMakeFiles/Project_Olivia.dir/glad.c.o	398cf78cfbf460ae
+2	173	1662838054170678973	CMakeFiles/Project_Olivia.dir/src/VAO.cpp.o	3784a4fa189d17ae
+2	800	1663088005005994997	CMakeFiles/Project_Olivia.dir/src/Mesh.cpp.o	5702181fa3d2ba11
+4	163	1663580463747419947	CMakeFiles/Project_Olivia.dir/src/VAO.cpp.o	3784a4fa189d17ae

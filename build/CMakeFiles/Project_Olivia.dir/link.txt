@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Project_Olivia.dir/glad.c.o CMakeFiles/Project_Olivia.dir/src/EBO.cpp.o CMakeFiles/Project_Olivia.dir/src/main.cpp.o CMakeFiles/Project_Olivia.dir/src/shaderClass.cpp.o CMakeFiles/Project_Olivia.dir/src/VAO.cpp.o CMakeFiles/Project_Olivia.dir/src/VBO.cpp.o -o Project_Olivia  -lGL -ldl -lglfw 

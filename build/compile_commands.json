@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/Project_Olivia.dir/glad.c.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/glad.c",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/glad.c"
+},
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Project_Olivia.dir/src/Mesh.cpp.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/Mesh.cpp",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/Mesh.cpp"
+},
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Project_Olivia.dir/src/EBO.cpp.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/EBO.cpp",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/EBO.cpp"
+},
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Project_Olivia.dir/src/main.cpp.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/main.cpp",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/main.cpp"
+},
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Project_Olivia.dir/src/shaderClass.cpp.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/shaderClass.cpp",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/shaderClass.cpp"
+},
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Project_Olivia.dir/src/VAO.cpp.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/VAO.cpp",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/VAO.cpp"
+},
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Project_Olivia.dir/src/VBO.cpp.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/VBO.cpp",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/VBO.cpp"
+},
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Project_Olivia.dir/src/Texture.cpp.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/Texture.cpp",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/Texture.cpp"
+},
+{
+  "directory": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Project_Olivia.dir/src/Camera.cpp.o -c /home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/Camera.cpp",
+  "file": "/home/igor/Documents/Programming/C/OpenGl/Project_Olivia/src/Camera.cpp"
+}
+]
